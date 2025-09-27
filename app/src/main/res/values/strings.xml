@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Spirala1</string>
+    <string-array name="mode">
+        <item>Medicinski</item>
+        <item>Kuharski</item>
+        <item>Botanički</item>
+    </string-array>
+</resources>
